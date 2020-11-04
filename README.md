@@ -10,7 +10,10 @@ During this event which is held over a period of 1 month the participants are re
 2. [Game Price Prediction](https://www.kaggle.com/c/logical-rythm-2k20-game-price-prediction): In this problem statement, we are required to predict the price of a given game over the play store given various features such as developers, positive reviews, number of users etc. You can find the link to the final notebook [here](https://www.kaggle.com/sidagar/gameprice-main).
 
 3. [Sports Image Classificaton](https://www.kaggle.com/c/logical-rythm-2k20-sports-image-classification): In this problem statement given is an image and we have to predict the sport which is being played on the image.You can find the link to the final notebook [here](https://www.kaggle.com/blazer007/sports-image-classification-with-fastai).
-  
+
+        Since the train and test files were too large for this problem, they have not been uploaded to the repository.
+        Please visit the kaggle link for the problem statement if you wish to download the dataset.
+
 PS:There are interactive and dynamic plotly charts in these files which are not rendered on the github viewer and 
 therefore I have uploaded the whole notebook in HTML format separately for reference which comes with all the graphs.
     
@@ -25,8 +28,8 @@ therefore I have uploaded the whole notebook in HTML format separately for refer
 
 ## Team Members:
 
-1. Sidhant Agarwal (20188028)&ensp;&ensp;username: "[sidagar](https://www.kaggle.com/sidagar)"
-2. Vivek Rai (20185024)&ensp;&ensp;username: "[blazer007](https://www.kaggle.com/blazer007)"
-3. Deepanshu Raj (20185058)&ensp;&ensp;username: "[davalpha](https://www.kaggle.com/davalpha)"
+1. [Sidhant Agarwal](https://github.com/sidhantagar) (20188028)&ensp;&ensp;username: "[sidagar](https://www.kaggle.com/sidagar)"
+2. [Vivek Rai](https://github.com/Blazer-007) (20185024)&ensp;&ensp;username: "[blazer007](https://www.kaggle.com/blazer007)"
+3. [Deepanshu Raj](https://github.com/deepanshu-Raj) (20185058)&ensp;&ensp;username: "[davalpha](https://www.kaggle.com/davalpha)"
 
 ### Final Results: Secured 1st position
