@@ -12,7 +12,7 @@ During this event which is held over a period of 1 month the participants are re
 3. [Sports Image Classificaton](https://www.kaggle.com/c/logical-rythm-2k20-sports-image-classification): In this problem statement given is an image and we have to predict the sport which is being played on the image.You can find the link to the final notebook [here](https://www.kaggle.com/blazer007/sports-image-classification-with-fastai).
 
         Since the train and test files were too large for this problem, they have not been uploaded to the repository.
-        Please visit the kaggle link for the problem statement if you wish to download the dataset.
+        Please visit the kaggle link of the problem statement if you wish to download the datasets and run notebook.
 
 PS:There are interactive and dynamic plotly charts in these files which are not rendered on the github viewer and 
 therefore I have uploaded the whole notebook in HTML format separately for reference which comes with all the graphs.
